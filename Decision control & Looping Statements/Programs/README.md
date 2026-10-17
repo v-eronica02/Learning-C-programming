@@ -4,7 +4,7 @@ This folder is my personal practice lab where I save all the daily code scripts,
 
 ## 🗂️ Lab Code Index
 
-### 1. **[vote.c](./vote.c):** 
+### 1. **[vote.c](./vote.c):**
 program which takes age of the person as input . Uses if-else statement to determine whether the person is eligible to vote or not.
 ---
 
