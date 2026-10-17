@@ -4,7 +4,8 @@ This folder is my personal practice lab where I save all the daily code scripts,
 
 ## 🗂️ Lab Code Index
 
-* **[hello_world.c](./hello_world.c):** The absolute basic skeleton of a C program. Teaches how to include the header file (`stdio.h`), use the `main()` function structure, and print text to the screen.
+### 1. **[hello_world.c](./hello_world.c):** 
+The absolute basic skeleton of a C program. Teaches how to include the header file (`stdio.h`), use the `main()` function structure, and print text to the screen.
 
 ---
 
@@ -13,8 +14,8 @@ To compile and test any of these practice programs on your terminal, open your c
 
 ```bash
 # Compile command
-gcc filename.c -o output_name
+gcc filename.c -o file_name
 
 # Run command
-./output_name
+./file_name
 ```
