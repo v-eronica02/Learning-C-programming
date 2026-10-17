@@ -1,6 +1,6 @@
 # College Student Budget Planner 🎓💰
 
-Hey! This is a command-line budget and wealth calculator written in **C**. I built this project to manage typical student finances in India by tracking both allowances from parents and personal side-income (like stipends or freelance gigs), breaking down expenses, and predicting college savings by graduation.
+Hey! This is a command-line budget and wealth calculator written in **C**. I built this project to manage typical student finances by tracking both allowances from parents and personal side-income (like stipends or freelance gigs), breaking down expenses, and predicting college savings by graduation.
 ---
 
 ## What It Does
